@@ -9,7 +9,6 @@ vendor
 
 # RubyGems
 *.gem
-_site
 
 # NPM dependencies
 node_modules
